@@ -1,4 +1,4 @@
-{% set version = "1.4.0" %}
+{% set version = "1.4.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/funrar_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/funrar/funrar_{{ version }}.tar.gz
-  sha256: 9137ebb5c5f1e76b4650fcd8172dc0a72d3b46eddd1235173449336b7661eb96
+  sha256: bfd413da3968e51c9d8fe466a96dc9711561a6c94d2e7f14f90cb95420630c77
 
 build:
   merge_build_host: true  # [win]
