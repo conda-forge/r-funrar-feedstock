@@ -1,11 +1,11 @@
-About r-funrar
-==============
+About r-funrar-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-funrar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://rekyt.github.io/funrar/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-funrar-feedstock/blob/main/LICENSE.txt)
 
 Summary: Computes functional rarity indices as proposed by Violle et al. (2017) <doi:10.1016/j.tree.2017.02.002>. Various indices can be computed using both regional and local information. Functional Rarity combines both the functional aspect of rarity as well as the extent aspect of rarity. 'funrar' is presented in Grenié et al. (2017) <doi:10.1111/ddi.12629>.
 
